@@ -1,1 +1,1 @@
-# Iventory-App
+# Inventory-App
